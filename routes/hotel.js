@@ -1,5 +1,5 @@
 const express= require("express");
-const { createhotel, updatehotel } = require("../controllers/hotelscontroller.js");
+
 const Hotel=require("../models/Hotels.js")
 
 
